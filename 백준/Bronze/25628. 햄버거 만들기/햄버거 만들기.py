@@ -1,4 +1,2 @@
-A, B = map(int, input().split())
-a = A // 2
-b = B
-print(min(a, b))
+A,B=map(int,input().split())
+print(min(A//2,B))
