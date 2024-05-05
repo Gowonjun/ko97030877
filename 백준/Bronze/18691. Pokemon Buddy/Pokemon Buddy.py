@@ -1,4 +1,3 @@
-T = 0
 T = int(input())
 
 for _ in range(T) :
