@@ -1,4 +1,5 @@
-n = int(input())
+n = input()
+n = int(n)
 
 flag = 0
 cnt_D = 0
