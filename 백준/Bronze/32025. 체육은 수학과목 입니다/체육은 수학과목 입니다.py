@@ -1,4 +1,1 @@
-H = int(input())
-W = int(input())
-
-print(min(H, W) * 50)
+print(min(int(input()),int(input()))*50)
