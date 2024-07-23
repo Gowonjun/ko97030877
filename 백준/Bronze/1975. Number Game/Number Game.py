@@ -8,7 +8,9 @@ for _ in range(T) :
 
     for i in range(2, N + 1) :
         real_N = N
-        while real_N :
+        while True :
+            if real_N == 0 :
+                break
             if real_N % i == 0 :
                 cnt += 1
                 real_N = real_N // i
