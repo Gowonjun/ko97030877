@@ -1,18 +1,12 @@
-# 26314 Vowel Count
-
-v = 'aeiou'
-n = int(input())
-for _ in range(n) :
-    s = input()
-    v_cnt = 0
-    c_cnt = 0
-    for elem in s :
-        if elem in v :
-            v_cnt += 1
-        else :
-            c_cnt += 1
-    print(s)
-    if v_cnt > c_cnt :
-        print(1)
-    else :
-        print(0)
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
